@@ -1,0 +1,35 @@
+    public static int countSentences(String str) {
+        str = removeSpecialChars(str);
+        str = expandAbbreviations(str);
+        int period = 0;
+        int index = 0;
+        int startingPoint = 0;
+        while( index != -1){
+            index = str.indexOf('.', startingPoint);
+            startingPoint = index + 1;
+            if (index == str.length() - 1) {
+                period++;
+            } else if (str.charAt(index + 1) < '0' || str.charAt(index + 1) > '9') {
+                period++;
+            }
+        }
+        return period;
+    }
+
+    // or you can use the bottom for for searching every character
+
+    public static int countSentences(String str) {
+        str = removeSpecialChars(str);
+        str = expandAbbreviations(str);
+        int period = 0;
+        for (int index = 0; index < str.length(); index++) {
+            if (str.charAt(index) == '.') {
+                if (index == str.length() - 1) {
+                    period++;
+                } else if (str.charAt(index + 1) < '0' || str.charAt(index + 1) > '9') {
+                    period++;
+                }
+            }
+        }
+        return period;
+    }

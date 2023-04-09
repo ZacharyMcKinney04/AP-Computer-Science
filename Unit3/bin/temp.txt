@@ -1,0 +1,50 @@
+public class LetterFrequency {
+
+    double[] english = { 8.12, 1.49, 2.71, 4.32, 12.02, 2.3, 2.03, 5.92, 7.31, 0.1, 0.69, 3.98, 2.61, 6.95, 
+        7.68, 1.82, 0.11, 6.02, 6.28, 9.1, 2.88, 1.11, 2.09, 0.17, 2.11, 0.07 };
+    double[] spanish = { 12.16, 1.49, 3.87, 4.67, 14.08, 0.69, 1.00, 1.18, 5.98, 0.52, 0.11, 5.24,
+        3.08, 7.00, 9.2, 2.89, 1.11, 6.41, 7.2, 4.60, 4.69, 1.05, 0.04, 0.14, 1.09, 0.47 };
+
+    public static void main(String[] args){
+        // choose 2 strings 1 in spanish 1 english
+        // calulate letter fequency for each 
+        // calculate loss function for each string in each language
+        // print out which language is likely to be
+
+        System.out.println();
+    }
+
+    // TODO convert to report percentages of the letters
+    // percentage = number of each letter / number of letters
+    // return double[] array
+    public static double[] letterPercent(String s){
+        s.toLowerCase();
+        double[] letterPercentage = new double[26];
+        for(int index = 0; index < s.length(); index++ ){
+            int elementPlace = ((int) s.charAt(index)) - 97;
+            if('a' >= elementPlace && 'z' <= elementPlace){
+                letterPercentage[elementPlace]++ ;
+            }
+        }
+        // TODO add sum
+        for( letterAmount : letterPercentage){
+            int sum += letterAmount;
+        }
+        // TODO take each element and divide by sum
+        for(int index = 0; index < s.length(); index++){
+            letterPercentage[i] / 
+        }
+        
+        return letterPercentage;
+    } 
+
+    public static double loss(double[] values, double[] reference){
+        // write a loss fucntion calculation
+        // calulcate the differnece between the actual percentages for the language and the given array
+        // need to square the difference
+        // two arrays must be same length
+        //add all the differences (that were squared) up into one 
+
+    }
+
+}
