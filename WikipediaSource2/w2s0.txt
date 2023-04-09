@@ -1,0 +1,144 @@
+Mini scule is a species of microhylid frog endemic to Madagascar that was described in 2019. The scientific name of the species refers to its size, being a pun on the word minuscule. It is very small, measuring only 8.4 to 10.8 mm (0.33 to 0.43 in) in snout–vent length. It has bronze underparts with a brown groin and back of the thigh, cream upperparts with brown flecking, a dark brown side of the head, and a red iris. It is known only from the Sainte Luce Reserve, where it inhabits areas with deep leaf litter near semi-permanent water bodies. Specimens of frogs from Mandena, the Vohimena mountains, the southern Anosy Mountains, and Tsitongambarika may also be of this species. Like other species in the genus Mini, it received media attention when first described due to the wordplay in its scientific name.
+
+
+Contents
+1	Taxonomy and systematics
+2	Description
+3	Distribution and habitat
+4	Conservation
+5	References
+6	External links
+Taxonomy and systematics
+Mini scule was described in 2019 by herpetologist Mark Scherz and his colleagues based on an adult specimen (presumed to be male) collected in Sainte Luce Reserve in Anosy, Madagascar, in 2005.[1] The name Mini scule is a pun on the word miniscule[1] (a misspelling or variant spelling of minuscule),[3] alluding to the fact that the species is among the smallest known species of frog. The specific name scule is regarded as an invariable noun.[1] Along with Mini mum and Mini ature, the other two species in its genus, the species received publicity when it was first described due to its humorous scientific name.[4][5]
+
+The species is part of Microhylidae, a widespread family of more than 650 species of mostly small frogs. It is most closely related to Mini ature, with these two species forming a sister clade to Mini mum. The study that described the species placed the genus Mini as sister to Plethodontohyla, despite the former being morphologically more similar to Stumpffia.[1] However, a 2021 phylogeny by Alain Dubois and colleagues instead suggests that to be monophyletic, both Plethodontohyla and Mini should be lumped with Cophyla. This would make the present species's name Cophyla scule.[6]
+
+The following cladograms of the subfamily Cophylinae show the differing phylogenies found by the 2019 and 2021 studies:[1][6]
+
+Cladogram based on Scherz et al., 2019[1]
+Cophylinae	
+ 	
+Madecassophryne
+
+ 
+ 	
+ 	
+ 	
+Anodonthyla
+
+ 
+ 	
+ 	
+Mini	
+ 	
+M. mum
+
+ 
+ 	
+ 	
+M. ature
+
+ 
+ 	
+M. scule
+
+ 
+ 
+ 
+ 	
+Plethodontohyla
+
+ 
+ 
+ 	
+ 	
+Cophyla
+
+ 
+ 	
+Platypelis
+
+ 
+ 
+ 
+ 
+ 	
+ 	
+ 	
+Anilany
+
+ 
+ 	
+Rhombophryne
+
+ 
+ 
+ 	
+Stumpffia
+
+ 
+ 
+ 
+ 
+Cladogram based on Dubois et al., 2021[6]
+Cophylinae	
+Scaphiophrynini	
+ 	
+Scaphiophryne
+
+ 
+ 	
+Paradoxophyla
+
+ 
+ 
+ 	
+Rhombophrynina	
+Rhombophryne
+
+ 
+ 	
+Anodonthylina	
+Anodonthyla
+
+ 
+ 	
+Platypelina	
+Platypelis
+
+ 
+Cophilina	
+ 	
+Cophyla (including Mini)
+
+ 
+ 	
+Mantipus
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Description
+brown and black frog top view
+Top view of Mini scule
+upside down frog with pale brown underside
+Bottom view of Mini scule
+Mini scule is one of the smallest known species of frog,[7] with a snout–vent length of 8.4 to 10.8 mm (0.33 to 0.43 in). It has bronze underparts, except for the groin and back of the thigh, which are brown. The underparts and upperparts have a distinct color border along the side of the body between the rib cage and hip. The side of the head is dark brown but becomes more flecked with cream towards the back. The upperparts are cream with brown flecks. The iris is red. The groin can have dark markings in some specimens, along with blacker flanks and a burnt umber crossband on the thighs and lower leg.[1]
+
+M. scule has a rectangular body, with the head being wider than it is long and narrower than the body. The snout is rounded from the top and side, with non-protuberant nostrils that are equidistant between the eyes and snout. The lores are flat and vertical, and the tongue is long and thin. The first, second, and fourth fingers are greatly reduced, while the first toe is absent and the second and fifth toes are strongly reduced. The maxillary and premaxillary teeth are present, but it lacks vomerine teeth.[1]
+
+Within its genus, it can be distinguished from Mini mum by the presence of the maxillary and premaxillary teeth, as well as a less distinct border between the upperparts and underparts along the side, and from Mini ature by its smaller size and proportionally smaller nasals and neurocranium. It is also similar to some species in Stumpffia but can be distinguished from them by its poorly ossified carpals, along with the loss or fusion of the second carpal.[1]
+
+The species's calls are very different from those of M. mum but similar to those of many Stumpffia species. They most resemble those of Stumpffia gimmeli, S. larinki, and S. tridactyla. However, its dominant frequency is higher than that of S. gimmeli and S. larinki, while it is lower than that of S. tridactyla.[1]
+
+Distribution and habitat
+Forest with dappled sunlight
+Mini scule habitat
+Mini scule has an extremely limited range, being known only from areas in the Sainte Luce Reserve. Reports of Stumpffia frogs from Mandena, the Vohimena mountains, the southern Anosy Mountains, and Tsitongambarika may also refer to this species but need genetic confirmation. The species inhabits areas with deep leaf litter near semi-permanent water bodies like forest streams.[1]
+
+Conservation
+Mini scule is currently known only from the Sainte Luce Reserve and may be microendemic to forest fragments within it. Although the species has not been assessed by the IUCN, the authors of the article in which it is described recommended that it be listed as critically endangered due to its extremely small range and degradation in the quality of the forest which it inhabits.[1]
